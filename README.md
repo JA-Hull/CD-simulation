@@ -35,7 +35,9 @@ the CD when both domains are present together.
 ## Install
 
 ```bash
-pip install numpy matplotlib
+git clone https://github.com/JA-Hull/CD-simulation.git
+cd CD-simulation
+pip install -r requirements.txt
 ```
 
 ## Quick start
